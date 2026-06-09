@@ -95,4 +95,4 @@ cv2.destroyAllWindows()
 
 Output:
 
-![](output/vid.mp4)
+![](output/vid.gif)
